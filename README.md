@@ -12,9 +12,9 @@
 
 #### 3. Tell me how to delete tag locally and remotely.   
 1. To delete remote tag​
-  - git push origin --delete v1.0​
+   - git push origin --delete v1.0​
 
 1. To delete local tags​
-  - git tag -d v1.0
+   - git tag -d v1.0
 ###### The smallest heading
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
