@@ -16,7 +16,7 @@
 
         - git push origin --delete v1.7
 
-1. To delete local tags​ (v1.7)
+1. To delete local tag (v1.7)
 
         - git tag -d v1.7
 
