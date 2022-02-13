@@ -16,6 +16,7 @@
 
 1. To delete local tags​
    - git tag -d v1.0
+   
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ###### Thank you
