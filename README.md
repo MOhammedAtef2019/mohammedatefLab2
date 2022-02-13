@@ -1,5 +1,5 @@
 # The largest heading
-## 1.Tell me how to remove dev branch locally and remotely.
+### 1.Tell me how to remove dev branch locally and remotely.
 1. To delete a remote branch​
    git push origin --delete dev
 
