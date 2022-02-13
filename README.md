@@ -1,10 +1,10 @@
 ## Lab2 solution
 #### 1. Tell me how to remove dev branch locally and remotely.
 1. To delete a remote dev 
-   - git push origin --delete dev
+     - git push origin --delete dev
 
 2. To delete a local dev
-   - git branch -d div
+     - git branch -d div
 
 #### 2. Tell me how to list tags.​
         - git tag --list
